@@ -1,0 +1,19 @@
+{
+  "name": "md-pages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "把 md/ 文件夹变成一个带目录树和演示模式的静态文档站点",
+  "scripts": {
+    "dev": "node tools/dev-server.mjs",
+    "test": "node tools/smoke-test.mjs",
+    "test:dom": "node tools/dom-test.mjs",
+    "audit": "node tools/audit.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "css-tree": "^3.2.1",
+    "jsdom": "^31.0.0"
+  }
+}

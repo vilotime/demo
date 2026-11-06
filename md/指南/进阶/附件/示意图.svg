@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" width="760" height="200" role="img" aria-label="阅读模式与演示模式对比示意图">
+  <rect x="0" y="0" width="760" height="200" rx="16" fill="#f1f5f9"/>
+  <g font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+    <rect x="28" y="28" width="330" height="144" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+    <rect x="28" y="28" width="330" height="26" rx="10" fill="#e2e8f0"/>
+    <circle cx="44" cy="41" r="3.5" fill="#f87171"/>
+    <circle cx="56" cy="41" r="3.5" fill="#fbbf24"/>
+    <circle cx="68" cy="41" r="3.5" fill="#34d399"/>
+    <rect x="44" y="76" width="80" height="80" rx="6" fill="#eef2ff"/>
+    <rect x="52" y="88" width="60" height="6" rx="3" fill="#c7d2fe"/>
+    <rect x="52" y="102" width="52" height="6" rx="3" fill="#c7d2fe"/>
+    <rect x="52" y="116" width="64" height="6" rx="3" fill="#c7d2fe"/>
+    <rect x="140" y="76" width="196" height="8" rx="4" fill="#334155"/>
+    <rect x="140" y="94" width="180" height="6" rx="3" fill="#cbd5e1"/>
+    <rect x="140" y="108" width="190" height="6" rx="3" fill="#cbd5e1"/>
+    <rect x="140" y="122" width="150" height="6" rx="3" fill="#cbd5e1"/>
+    <rect x="140" y="140" width="110" height="16" rx="8" fill="#e0e7ff"/>
+    <text x="28" y="192" font-size="12" fill="#64748b" font-weight="600">阅读模式 · 目录 + 正文 + 大纲</text>
+
+    <rect x="402" y="28" width="330" height="144" rx="10" fill="#0f172a"/>
+    <rect x="422" y="52" width="290" height="72" rx="6" fill="#1e293b"/>
+    <rect x="440" y="72" width="140" height="9" rx="4.5" fill="#a5b4fc"/>
+    <rect x="440" y="92" width="200" height="6" rx="3" fill="#475569"/>
+    <rect x="440" y="106" width="160" height="6" rx="3" fill="#475569"/>
+    <rect x="422" y="150" width="290" height="4" rx="2" fill="#334155"/>
+    <rect x="422" y="150" width="96" height="4" rx="2" fill="#818cf8"/>
+    <text x="402" y="192" font-size="12" fill="#64748b" font-weight="600">演示模式 · 16:9 画布 + 翻页</text>
+  </g>
+</svg>

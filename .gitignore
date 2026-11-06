@@ -1,0 +1,25 @@
+# 依赖
+node_modules/
+.npm-cache/
+
+# 构建产物：目录索引由 GitHub Actions 在部署时生成，不进仓库
+md-index.json
+
+# 本地测试 / 调试产物
+shots/
+.edge-profile/
+*.log
+
+# 本地预览用的快捷方式（指向 http://127.0.0.1:5173/，只在本机有效）
+预览.url
+*.url
+*.lnk
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
